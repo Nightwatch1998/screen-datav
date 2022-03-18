@@ -8,6 +8,7 @@ import datav from 'imooc-datav-libs-dev'
 // app.js  9.20 KiB  (1个组件)
 // app.js  7.29 KiB  (1个组件,按需加载)
 
+//第三方组件库加载
 createApp(App)
     .use(store)
     .use(router)
